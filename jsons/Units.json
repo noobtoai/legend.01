@@ -2,7 +2,7 @@
 	{
 		"name": "Lighting",
 		"unitType": "lighting",
-		"movement": 20,
+		"movement": 5,
 		"uniques" ["Never appears as a Barbarian unit"],
 		"uniqueTo": "Eiyuu",
 		"replaces": "Nuclear Missile",
