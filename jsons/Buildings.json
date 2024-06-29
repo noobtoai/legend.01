@@ -24,7 +24,7 @@
 	{
 		"name": "Stele",
 		"replaces": "Monument",
-		"uniqueTo": "Ethiopia",
+		"uniqueTo": ["Ethiopia","Eiyuu"],
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
@@ -54,7 +54,7 @@
 	{
 		"name": "Pyramid",
 		"replaces": "Shrine",
-		"uniqueTo": "The Maya",
+		"uniqueTo": ["The Maya","Eiyuu"],
 		"faith": 2,
 		"science": 2,
 		"cost": 40,
@@ -102,7 +102,7 @@
 	{
 		"name": "Paper Maker",
 		"replaces": "Library",
-		"uniqueTo": "China",
+		"uniqueTo": ["China","Eiyuu"],
 		"hurryCostModifier": 25,
 		"gold": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
@@ -312,7 +312,7 @@
 	{
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
-		"uniqueTo": "Songhai",
+		"uniqueTo": ["Songhai","Eiyuu"],
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"culture": 2,
@@ -554,7 +554,7 @@
 	{
 		"name": "Wat",
 		"replaces": "University",
-		"uniqueTo": "Siam",
+		"uniqueTo": ["Siam","Eiyuu"],
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
