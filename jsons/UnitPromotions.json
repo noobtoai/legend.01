@@ -793,7 +793,7 @@
 	},
 	{
 		"name": "Atomic Revenger",
-		"uniques":["[+7000]% Strength <vs [Air] units>","[+2] Sight","[+2] Movement","All healing effects doubled"],
+		"uniques":["[+200]% Strength <vs [Air] units>","[+2] Sight","[+2] Movement","All healing effects doubled"]
 	},
 
 	
@@ -804,11 +804,11 @@
 	},
 	{
 		"name": "FireGod",
-		"uniques":["[-75]% Strength for enemy [All] units in adjacent [All] tiles","Destroys tile improvements when attacking"],
+		"uniques":["[-75]% Strength for enemy [All] units in adjacent [All] tiles","Destroys tile improvements when attacking"]
 	},
 	{
 		"name": "LifeGod",
-		"uniques":["Unit will heal every turn, even if it performs an action","[+500]% Strength <when defending>","May heal outside of friendly territory"],
+		"uniques":["Unit will heal every turn, even if it performs an action","[+500]% Strength <when defending>","May heal outside of friendly territory"]
 	},
 	
 	
@@ -819,6 +819,6 @@
 	},
 	{
 		"name": "Bersker",
-		"uniques":["Ignores terrain cost","[3] additional attacks per turn"],
+		"uniques":["Ignores terrain cost","[3] additional attacks per turn"]
 	}
 ]
