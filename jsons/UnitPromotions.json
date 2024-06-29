@@ -777,4 +777,48 @@
 		"uniques": ["[+2] Movement <when adjacent to a [Zuikaku] unit>"],
 		"unitTypes": ["Shoukaku"]
 	},
+//others
+	{
+		"name": "Eat the Living",
+		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [10]% of the damage done to [All] units as [Gold]"]
+	},
+	{
+		"name": "Hard to Kill Twice",
+		"uniques": ["[+450]% Strength <when defending>"]
+	},
+//ability
+	{
+		"name": "Ninja",
+		"uniques": ["Uncapturable","Ignores Zone of Control","Invisible to non-adjacent units","All tiles cost [1] movement"]
+	},
+	{
+		"name": "Atomic Revenger",
+		"uniques":["[+700]% Strength <vs [Air] units>","[+2] Sight","[+2] Movement","All healing effects doubled"],
+	},
+
+	
+//effects
+	{
+		"name": "Bushido",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles","[1] additional attacks per turn"]
+	},
+	{
+		"name": "FireGod",
+		"uniques":["[-75]% Strength for enemy [All] units in adjacent [All] tiles","Destroys tile improvements when attacking"],
+	},
+	{
+		"name": "LifeGod",
+		"uniques":["Unit will heal every turn, even if it performs an action","[+500]% Strength <when defending>","May heal outside of friendly territory"],
+	},
+	
+	
+//battle
+	{
+		"name": "Breath",
+		"uniques": ["Can move after attacking","[1] additional attacks per turn", "[+15] HP when healing"]
+	},
+	{
+		"name": "Bersker",
+		"uniques":["Ignores terrain cost","[3] additional attacks per turn"],
+	}
 ]
