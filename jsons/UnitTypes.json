@@ -77,6 +77,11 @@
         "uniques": ["Self-destructs when attacking", "Cannot be intercepted"]
     },
     {
+        "name": "lighting",
+        "movementType": "Air",
+        "uniques": ["Cannot be intercepted"]
+    },
+    {
         "name": "Helicopter",
         "movementType": "Land",
         "uniques": ["Can pass through impassable tiles"]
