@@ -1,8 +1,16 @@
 [
+	{
+		"name": "Lighting",
+		"unitType": "lighting",
+		"movement": 20,
+		"uniques" ["Never appears as a Barbarian unit"],
+		"uniqueTo": "Eiyuu",
+		"replaces": "Nuclear Missile",
+		"strength": 150,
+		"rangedStrength": 550,
+		"range": 10,
 
-	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
-
-	/* Ancient Era */
+	},
 	{
 		"name": "Worker",
 		"unitType": "Civilian",
